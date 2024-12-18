@@ -1,0 +1,13 @@
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/Activator.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/MyDaemonDaemonService.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/MyDaemonInstallationNodeContribution.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/MyDaemonInstallationNodeService.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/MyDaemonInstallationNodeView.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/MyDaemonProgramNodeContribution.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/MyDaemonProgramNodeService.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/MyDaemonProgramNodeView.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/Style.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/UnknownResponseException.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/V3Style.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/V5Style.java
+/workspaces/universal_robots_sdk/samples/swing/com.ur.urcap.examples.mydaemonswing/src/main/java/com/ur/urcap/examples/mydaemonswing/impl/XmlRpcMyDaemonInterface.java
